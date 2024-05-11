@@ -79,7 +79,7 @@ public class Main extends Application {
         derivativeGrid.addRow(2, label3, textField2);
         derivativeGrid.addRow(3, label4, textField3);
         derivativeGrid.addRow(2, calculateButton);
-        derivativeGrid.addRow(3, label3, resultLabel);
+        derivativeGrid.addRow(3, label5, resultLabel);
 
         return derivativeGrid;
     }
