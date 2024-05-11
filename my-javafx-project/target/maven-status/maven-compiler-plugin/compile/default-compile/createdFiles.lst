@@ -1,3 +1,5 @@
-com/example/Methods.class
-com/example/Parser.class
+com/example/Settings.class
 com/example/Main.class
+com/example/IntegrationMethods.class
+com/example/DerivationMethods.class
+com/example/Parser.class
